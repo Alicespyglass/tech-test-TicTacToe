@@ -1,3 +1,6 @@
+# initiates with squares
+
+
 require './lib/square.rb'
 
 class Game

@@ -1,3 +1,6 @@
+# holds a value
+# knows it's position
+
 class Square
 
   attr_reader :name, :value
@@ -16,7 +19,7 @@ class Square
   end
 
   private
-  
+
   attr_writer :value
 
 end
